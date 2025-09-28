@@ -6,84 +6,84 @@
   "configs": [
     {
       "id": "ca149",
-      "name": "CA149 OpenVPN Bundle",
+      "name": "Canada 1",
       "profiles": [
         { "proto": "tcp", "port": 443, "ovpn_url": "https://raw.githubusercontent.com/ekinsipahi/coolvpn-configs/refs/heads/main/assets/vpnbook-ca149-tcp443.ovpn" }
       ]
     },
     {
       "id": "de20",
-      "name": "DE20 OpenVPN Bundle",
+      "name": "Germany 1",
       "profiles": [
         { "proto": "tcp", "port": 443, "ovpn_url": "https://raw.githubusercontent.com/ekinsipahi/coolvpn-configs/refs/heads/main/assets/vpnbook-de20-tcp443.ovpn" }
       ]
     },
     {
       "id": "fr200",
-      "name": "FR200 OpenVPN Bundle",
+      "name": "France 1",
       "profiles": [
         { "proto": "tcp", "port": 443, "ovpn_url": "https://raw.githubusercontent.com/ekinsipahi/coolvpn-configs/refs/heads/main/assets/vpnbook-fr200-tcp443.ovpn" }
       ]
     },
     {
       "id": "pl134",
-      "name": "PL134 OpenVPN Bundle",
+      "name": "Poland 1",
       "profiles": [
         { "proto": "tcp", "port": 443, "ovpn_url": "https://raw.githubusercontent.com/ekinsipahi/coolvpn-configs/refs/heads/main/assets/vpnbook-pl134-tcp443.ovpn" }
       ]
     },
     {
       "id": "uk205",
-      "name": "UK205 OpenVPN Bundle",
+      "name": "United Kingdom (UK) 1",
       "profiles": [
         { "proto": "tcp", "port": 443, "ovpn_url": "https://raw.githubusercontent.com/ekinsipahi/coolvpn-configs/refs/heads/main/assets/vpnbook-uk205-tcp443.ovpn" }
       ]
     },
     {
       "id": "us16",
-      "name": "US16 OpenVPN Bundle",
+      "name": "United States (US) 1",
       "profiles": [
         { "proto": "tcp", "port": 443, "ovpn_url": "https://raw.githubusercontent.com/ekinsipahi/coolvpn-configs/refs/heads/main/assets/vpnbook-us16-tcp443.ovpn" }
       ]
     },
     {
       "id": "us178",
-      "name": "US178 OpenVPN Bundle",
+      "name": "United States (US) 2",
       "profiles": [
         { "proto": "tcp", "port": 443, "ovpn_url": "https://raw.githubusercontent.com/ekinsipahi/coolvpn-configs/refs/heads/main/assets/vpnbook-us178-tcp443.ovpn" }
       ]
     },
     {
       "id": "ca196",
-      "name": "CA196 OpenVPN Bundle",
+      "name": "Canada 2",
       "profiles": [
         { "proto": "tcp", "port": 443, "ovpn_url": "https://raw.githubusercontent.com/ekinsipahi/coolvpn-configs/refs/heads/main/assets/vpnbook-ca196-tcp443.ovpn" }
       ]
     },
     {
       "id": "de220",
-      "name": "DE220 OpenVPN Bundle",
+      "name": "Germany 2",
       "profiles": [
         { "proto": "tcp", "port": 443, "ovpn_url": "https://raw.githubusercontent.com/ekinsipahi/coolvpn-configs/refs/heads/main/assets/vpnbook-de220-tcp443.ovpn" }
       ]
     },
     {
       "id": "fr231",
-      "name": "FR231 OpenVPN Bundle",
+      "name": "France 2",
       "profiles": [
         { "proto": "tcp", "port": 443, "ovpn_url": "https://raw.githubusercontent.com/ekinsipahi/coolvpn-configs/refs/heads/main/assets/vpnbook-fr231-tcp443.ovpn" }
       ]
     },
     {
       "id": "pl140",
-      "name": "PL140 OpenVPN Bundle",
+      "name": "Poland 2",
       "profiles": [
         { "proto": "tcp", "port": 443, "ovpn_url": "https://raw.githubusercontent.com/ekinsipahi/coolvpn-configs/refs/heads/main/assets/vpnbook-pl140-tcp443.ovpn" }
       ]
     },
     {
       "id": "uk68",
-      "name": "UK68 OpenVPN Bundle",
+      "name": "United Kingdom (UK) 2",
       "profiles": [
         { "proto": "tcp", "port": 443, "ovpn_url": "https://raw.githubusercontent.com/ekinsipahi/coolvpn-configs/refs/heads/main/assets/vpnbook-uk68-tcp443.ovpn" }
       ]
