@@ -1,0 +1,92 @@
+{
+  "version": "2025-09-28T12:00:00Z",
+  "note": "Public free VPNBook bundles. All bundles include UDP53, UDP25000, TCP80, TCP443 profiles. Credentials are public (vpnbook).",
+  "username": "vpnbook",
+  "password": "m34wk9w",
+  "configs": [
+    {
+      "id": "ca149",
+      "name": "CA149 OpenVPN Bundle",
+      "profiles": [
+        { "proto": "tcp", "port": 80, "ovpn_url": "https://raw.githubusercontent.com/ekinsipahi/coolvpn-configs/main/assets/vpnbook-ca149-tcp80.ovpn" }
+      ]
+    },
+    {
+      "id": "de20",
+      "name": "DE20 OpenVPN Bundle",
+      "profiles": [
+        { "proto": "tcp", "port": 80, "ovpn_url": "https://raw.githubusercontent.com/ekinsipahi/coolvpn-configs/main/assets/vpnbook-de20-tcp80.ovpn" }
+      ]
+    },
+    {
+      "id": "fr200",
+      "name": "FR200 OpenVPN Bundle",
+      "profiles": [
+        { "proto": "tcp", "port": 80, "ovpn_url": "https://raw.githubusercontent.com/ekinsipahi/coolvpn-configs/main/assets/vpnbook-fr200-tcp80.ovpn" }
+      ]
+    },
+    {
+      "id": "pl134",
+      "name": "PL134 OpenVPN Bundle",
+      "profiles": [
+        { "proto": "tcp", "port": 80, "ovpn_url": "https://raw.githubusercontent.com/ekinsipahi/coolvpn-configs/main/assets/vpnbook-pl134-tcp80.ovpn" }
+      ]
+    },
+    {
+      "id": "uk205",
+      "name": "UK205 OpenVPN Bundle",
+      "profiles": [
+        { "proto": "tcp", "port": 80, "ovpn_url": "https://raw.githubusercontent.com/ekinsipahi/coolvpn-configs/main/assets/vpnbook-uk205-tcp80.ovpn" }
+      ]
+    },
+    {
+      "id": "us16",
+      "name": "US16 OpenVPN Bundle",
+      "profiles": [
+        { "proto": "tcp", "port": 80, "ovpn_url": "https://raw.githubusercontent.com/ekinsipahi/coolvpn-configs/main/assets/vpnbook-us16-tcp80.ovpn" }
+      ]
+    },
+    {
+      "id": "us178",
+      "name": "US178 OpenVPN Bundle",
+      "profiles": [
+        { "proto": "tcp", "port": 80, "ovpn_url": "https://raw.githubusercontent.com/ekinsipahi/coolvpn-configs/main/assets/vpnbook-us178-tcp80.ovpn" }
+      ]
+    },
+    {
+      "id": "ca196",
+      "name": "CA196 OpenVPN Bundle",
+      "profiles": [
+        { "proto": "tcp", "port": 80, "ovpn_url": "https://raw.githubusercontent.com/ekinsipahi/coolvpn-configs/main/assets/vpnbook-ca196-tcp80.ovpn" }
+      ]
+    },
+    {
+      "id": "de220",
+      "name": "DE220 OpenVPN Bundle",
+      "profiles": [
+        { "proto": "tcp", "port": 80, "ovpn_url": "https://raw.githubusercontent.com/ekinsipahi/coolvpn-configs/main/assets/vpnbook-de220-tcp80.ovpn" }
+      ]
+    },
+    {
+      "id": "fr231",
+      "name": "FR231 OpenVPN Bundle",
+      "profiles": [
+        { "proto": "tcp", "port": 80, "ovpn_url": "https://raw.githubusercontent.com/ekinsipahi/coolvpn-configs/main/assets/vpnbook-fr231-tcp80.ovpn" }
+      ]
+    },
+    {
+      "id": "pl140",
+      "name": "PL140 OpenVPN Bundle",
+      "profiles": [
+        { "proto": "tcp", "port": 80, "ovpn_url": "https://raw.githubusercontent.com/ekinsipahi/coolvpn-configs/main/assets/vpnbook-pl140-tcp80.ovpn" }
+      ]
+    },
+    {
+      "id": "uk68",
+      "name": "UK68 OpenVPN Bundle",
+      "profiles": [
+        { "proto": "tcp", "port": 80, "ovpn_url": "https://raw.githubusercontent.com/ekinsipahi/coolvpn-configs/main/assets/vpnbook-uk68-tcp80.ovpn" }
+      ]
+    }
+  ]
+}
